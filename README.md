@@ -1,2 +1,2 @@
-# FastAPI-with-JWT-Tokens-Authenticatuon
-FastAPI-with-JWT-Tokens-Authenticatuon
+# FastAPI-with-JWT-Tokens-Authentication
+FastAPI-with-JWT-Tokens-Authentication
